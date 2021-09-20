@@ -3,7 +3,7 @@ class UserController {
 
     }
 
-    async getUser(res, res) {
+    async getUsers(res, res) {
 
     }
 
